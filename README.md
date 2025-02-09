@@ -17,10 +17,11 @@ The TestLine Quiz App is designed to be an engaging and informative way to test 
 
 *(Include screenshots of your application here.  Use a tool like ShareX, Lightshot, or the built-in screenshot functionality of your OS.  Name the images clearly, e.g., `start_screen.png`, `quiz_screen.png`, `end_screen.png`.  Place the images in a folder named `screenshots` in your repository. Then reference them like this:)*
 
-![Start Screen](./screenshots/start_screen.png)
-![Quiz Screen](./screenshots/quiz_screen.png)
-![End Screen](./screenshots/end_screen.png)
-![Detailed Answer](./screenshots/detailed_answer.png)
+![Start Screen](./assets/HomePage.png)
+![Quiz Screen](./assets/QuizPage.png)
+![Answer Right and Answer popup](./assets/if_Answer_Right.png)
+![Answer Wrong and Answer popup](./assets/if_Answer_Wronge.png)
+![End Screen](./assets/End_quiz_popup.png)
 
 ## Features
 
